@@ -22,7 +22,7 @@ void setup() {
  TV.println("   \n");
  TV.delay(2500);
  TV.clear_screen();
- /*
+ 
  TV.delay(1500);
  TV.println("also known\n");
  TV.delay(1500);
@@ -52,7 +52,7 @@ void setup() {
  TV.delay(2500);
  TV.clear_screen();
  TV.println("no further input.\n");
- TV.delay(2500);*/
+ TV.delay(2500);
        
 
 
